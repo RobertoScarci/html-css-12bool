@@ -7,7 +7,10 @@ h1{
     color: white;
     text-align: center;
     line-height: 2;
-    border: 1px solid white;
+}
+
+.border-white{
+    border: .5px solid white;
 }
 
 .row{
@@ -16,4 +19,8 @@ h1{
 
 .col-6 .row div{
     background-color: lawngreen;
+}
+
+.border-bottom{
+    border-bottom: .5px solid white;
 }
