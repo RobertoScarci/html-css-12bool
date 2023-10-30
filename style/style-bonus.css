@@ -7,9 +7,13 @@
 }
 
 .grey{
-    background-color: gray;
+    background-color: lightslategrey;
 }
 
 .white{
     background-color: white;
+}
+
+.red{
+    background-color: red;
 }
