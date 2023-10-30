@@ -9,3 +9,11 @@ h1{
     line-height: 2;
     border: 1px solid white;
 }
+
+.row{
+    padding-bottom: 1.5rem;
+}
+
+.col-6 .row div{
+    background-color: lawngreen;
+}
